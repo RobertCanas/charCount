@@ -9,4 +9,4 @@ for (var i = 0; i < str.length - 1; i++) {
     return obj;
 }
 
-console.log(countLetter("light house"));
+console.log(countLetter("lighthouse in the house"));
